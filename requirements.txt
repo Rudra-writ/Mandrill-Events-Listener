@@ -1,0 +1,8 @@
+fastapi
+python-multipart
+uvicorn[standard]
+jinja2
+mailchimp_transactional
+sqlite3
+pytest
+--upgrade httpx

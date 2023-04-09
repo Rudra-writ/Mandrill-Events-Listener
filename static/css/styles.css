@@ -1,0 +1,32 @@
+input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+.p2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: darkgreen;
+  }
+  
+.form-submit-button {
+    background: #1e5e92;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+  }
+  
+.form-submit-button:hover {
+    background: #84a3ba;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+  }
+  
+  body {
+  background-color: rgb(120, 163, 237);
+  }
